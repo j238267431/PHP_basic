@@ -1,0 +1,12 @@
+.goods{
+   width:200px;
+   height: 200px;
+}
+.main_block{
+   display: flex;
+}
+
+.itemImage{
+   width:200px;
+   height: 200px;
+}
