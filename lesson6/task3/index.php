@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
 require_once __DIR__ . '/engine/lib.php';
 $pages = include __DIR__ . '/routing/routing.php';
 $page = getPage($pages);
